@@ -1,0 +1,58 @@
+.table-log {
+    background-color: rgb(13, 156, 133);
+    grid-template-columns: auto;
+    grid-row: auto;
+    margin: 70px auto;
+    border-radius: 8px;
+    border: solid rgb(138, 187, 98);
+
+}
+
+.input-log {
+    padding: 10px;
+    margin: 6px;
+
+    border: 1px solid rgb(216, 171, 171);
+    border-radius: 10px;
+}
+
+.signInbtn {
+    justify-content: center;
+    background-color: rgb(15, 110, 117);
+    color: rgb(81, 5, 83);
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: cursive;
+    margin: 25px 65px;
+}
+
+.signUpbtn {
+    margin-right: 95px 0px;
+    width: 80px 0px;
+    justify-content: center;
+    color: rgb(81, 5, 83);
+    font-size: 18px;
+    border-radius: 5px;
+    background-color: rgb(206, 209, 43);
+    font-family: cursive;
+
+}
+
+
+.head-login {
+
+    border-radius: 8px;
+    text-align: center;
+    color: #053a37;
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: 3rem;
+
+}
+
+.td-log {
+
+    font-family: cursive;
+    text-emphasis: inherit;
+}

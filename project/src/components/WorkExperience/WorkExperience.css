@@ -1,0 +1,45 @@
+ .workexp {
+     height: 380px;
+     width: 480px;
+     background: #d3848e;
+     position: relative;
+     margin: 6% auto;
+     padding: 5px;
+     border-radius: 10px;
+     border: solid rgb(126, 64, 69);
+ }
+
+ .header-work {
+     text-align: center;
+     font-size: 1.7rem;
+     position: sticky;
+     font-family: cursive;
+
+ }
+
+ .edit-work {
+
+
+     right: 0px;
+     position: relative;
+     width: 80px;
+     height: 60%;
+     background: linear-gradient(to right, #ff105f, #ffad06);
+     color: black;
+     border-radius: 5px;
+ }
+
+ .save-work {
+
+     right: 0px;
+     position: relative;
+     width: 90px;
+     height: 60%;
+     background: linear-gradient(to right, #ff105f, #ffad06);
+     color: black;
+     border-radius: 5px;
+ }
+
+ .input-work {
+     border-radius: 5px;
+ }

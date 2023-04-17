@@ -1,0 +1,63 @@
+ .profile {
+     border-radius: 8px;
+     background-color: rgb(230, 148, 209);
+     grid-template-columns: auto;
+     grid-row: auto;
+     margin: 10px auto;
+     position: relative;
+     font-family: cursive;
+     border: solid rgb(76, 17, 94);
+     text-align: center;
+ }
+
+
+ #input-pro {
+     padding: 15px;
+     margin: 5px 10px;
+     margin-top: 20px;
+     border-radius: 5px;
+     border: 1px solid black;
+
+ }
+
+
+ td {
+     font-size: 18px;
+     font-weight: bolder;
+     color: rgb(38, 24, 61);
+     font-family: cursive;
+
+ }
+
+ h3 {
+
+     font-size: 2rem;
+     text-align: center;
+     color: rgba(47, 2, 53, 0.9);
+     font-family: cursive;
+     font-weight: bolder;
+
+ }
+
+ .editbttn {
+
+
+     position: relative;
+     width: 150px;
+     background: linear-gradient(to right, #ff105f, #ffad06);
+     color: black;
+     border-radius: 5px;
+
+ }
+
+
+ .savebttn {
+
+     position: relative;
+     width: 190px;
+     height: 60%;
+     background: linear-gradient(to right, #ff105f, #ffad06);
+     color: black;
+     border-radius: 5px;
+
+ }

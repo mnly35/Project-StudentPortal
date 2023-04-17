@@ -1,0 +1,10 @@
+body {
+
+  background: linear-gradient(to bottom, #45d173, #022517);
+
+}
+
+.active {
+
+  color: #dfcad7;
+}

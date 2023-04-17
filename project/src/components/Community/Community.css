@@ -1,0 +1,138 @@
+ .community {
+
+     height: 265px;
+     width: 295px;
+     background: #b5ce29;
+     position: relative;
+     margin: 5% auto;
+     padding: 5px;
+     background-color: rgb(16, 100, 51);
+     text-align: center;
+     color: #d1ce30;
+     font-family: cursive;
+     font-weight: bolder;
+     border: double;
+     border-radius: 8px;
+ }
+
+
+ .sbmt1 {
+
+     top: 0;
+     left: 70px;
+     position: relative;
+     width: 80px;
+     height: 60%;
+     background: linear-gradient(to right, #ff105f, #ffad06);
+     color: black;
+ }
+
+
+ .commentbtn {
+
+     top: 0;
+     left: 70px;
+     position: relative;
+     width: 70px;
+     height: 25%;
+     background: linear-gradient(to right, #ff105f, #ffad06);
+     color: black;
+
+ }
+
+ .form2 {
+
+     height: 70px;
+     width: 380px;
+     background: #b5ce29;
+     position: relative;
+     margin: 8% auto;
+     padding: 9px;
+     background-color: rgb(218, 193, 241);
+ }
+
+ .modal-content {
+
+     height: 100px;
+     width: 180px;
+     position: relative;
+ }
+
+ .modal-submit,
+ .modal-cancel {
+     border-radius: 5px;
+     top: 0;
+     left: 0;
+     position: relative;
+     width: 70px;
+     height: 25%;
+     background: linear-gradient(to left, #1e9b5d, #219903);
+     color: black;
+ }
+
+ .table-com,
+ .head-com,
+ .body-com,
+ .h2-com {
+     font-family: cursive;
+     grid-auto-rows: auto;
+     color: #0e0c0c;
+     text-align: center;
+     background-color: #a6ebe1;
+     border-radius: 8px;
+     justify-content: center;
+
+
+ }
+
+ #tr-com {
+     counter-increment: my-counter;
+ }
+
+ #td-com:first-of-type::before {
+     content: counter(my-counter);
+ }
+
+ .addtpc-com {
+
+     background: linear-gradient(to left, #1e9b5d, #219903);
+     border-radius: 5px;
+     background-size: auto;
+
+
+ }
+
+ .form-control {
+
+     border-style: groove;
+     margin: 5px;
+     border-radius: 8px;
+ }
+
+ .thead-com {
+     border: 1px solid #ddd;
+     padding: 8px;
+     border-collapse: collapse;
+     width: 97%;
+     margin-bottom: 28px;
+     text-align: center;
+     counter-reset: my-counter;
+ }
+
+ .comment-input {
+
+     background-color: #84a706;
+     color: #8f2606;
+     position: relative;
+     border-radius: 5px;
+     width: 330px;
+     height: 25px;
+ }
+
+ .h2-comment {
+     color: darkblue;
+     font-family: cursive;
+     text-align: center;
+     position: relative;
+
+ }

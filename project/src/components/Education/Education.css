@@ -1,0 +1,53 @@
+.education {
+    border: solid rgb(138, 187, 98);
+    height: 380px;
+    width: 480px;
+    background: #d3848e;
+    position: relative;
+    margin: 6% auto;
+    padding: 5px;
+    border-radius: 5px
+}
+
+.header-edu {
+    text-align: center;
+    font-size: 2rem;
+    position: sticky;
+    font-family: cursive;
+}
+
+.txtarea {
+    width: 214px;
+    height: 77px;
+    border-radius: 5px;
+}
+
+.editbtn1 {
+
+    top: 0;
+    left: 70px;
+    position: relative;
+    width: 80px;
+    height: 60%;
+    background: linear-gradient(to right, #ff105f, #ffad06);
+    color: black;
+    border-radius: 8px;
+
+}
+
+
+.savebtn1 {
+    top: 0;
+    right: 70px;
+    position: relative;
+    width: 90px;
+    height: 60%;
+    background: linear-gradient(to right, #ff105f, #ffad06);
+    color: black;
+    border-radius: 5px;
+}
+
+.input-edu {
+    border-radius: 8px;
+    background-color: aliceblue;
+}
